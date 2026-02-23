@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Jeevan Portfolio 🚀
 
-# Run and deploy your AI Studio app
+A modern, responsive portfolio built using **React + JavaScript + Vite + Tailwind CSS**.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/99dac609-b0d6-40a9-b4f5-6ab20487da16
+## ⚡ Tech Stack
 
-## Run Locally
+- React
+- JavaScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide Icons
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Run Locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 📌 Prerequisites
+- Node.js (v16+ recommended)
+- npm or yarn
+
+---
+
+### 1️⃣ Install Dependencies
+
+1. Install dependencies: npm install
+2. Run the app: npm run dev update read me file for vite
